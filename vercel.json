@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/release-holds",
+      "schedule": "* * * * *"
+    },
+    {
+      "path": "/api/cron/process-offers",
+      "schedule": "* * * * *"
+    }
+  ]
+}
