@@ -7,7 +7,7 @@ A full-stack ticket booking platform for movies and concerts with real-time seat
 Deploy to Vercel + Neon and set the URL here after deployment:
 
 ```
-https://your-app.vercel.app
+https://ticket-booking-box29.vercel.app
 ```
 
 ## Features
